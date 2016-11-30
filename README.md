@@ -5,7 +5,7 @@
 
 Create a [pull request](https://github.com/shnbwmn/awesome-mobile/pulls) to add apps | Start an [issue](https://github.com/shnbwmn/awesome-mobile/issues) for corrections or discussions
 
-_See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
+_See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable), [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
 ## Contents
 
