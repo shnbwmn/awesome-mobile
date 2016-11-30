@@ -21,7 +21,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## Internet
 
 ### Discovery
-* [**StumbleUpon**](http://www.stumbleupon.com/) / [*play*](https://play.google.com/store/apps/details?id=com.stumbleupon.android.app&hl=en)
+* [**StumbleUpon**](http://www.stumbleupon.com/) / [*play*](https://play.google.com/store/apps/details?id=com.stumbleupon.android.app&hl=en), [*itunes*](https://itunes.apple.com/us/app/stumbleupon/id386244833?mt=8)
 
 ## Multimedia
 
