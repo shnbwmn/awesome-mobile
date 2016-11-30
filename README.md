@@ -34,7 +34,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Total Commander**](https://www.ghisler.com/) / [*totalcmd*](http://www.ghisler.com/android.htm), [*play*](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander&hl=en) / free!
 
 ### Transport
-* [**Uber**](https://www.uber.com/) / [*play*](https://play.google.com/store/apps/details?id=com.ubercab&hl=en) / a real life-saver at times
+* [**Uber**](https://www.uber.com/) / [*play*](https://play.google.com/store/apps/details?id=com.ubercab&hl=en), [*itunes*](https://itunes.apple.com/us/app/uber/id368677368) / a real life-saver at times
 
 ## License
 
