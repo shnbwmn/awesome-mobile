@@ -36,4 +36,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Transport
 * [**Uber**](https://www.uber.com/) / [*play*](https://play.google.com/store/apps/details?id=com.ubercab&hl=en) / a real life-saver at times
 
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Shane Bowman has waived all copyright and related or neighbouring rights to this work.
 
