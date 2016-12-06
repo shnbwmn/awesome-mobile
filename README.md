@@ -10,7 +10,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## Contents
 
 * [*Internet*](#internet)
-> [*discover*](#discovery)
+> [*chat*](#chat), [*discover*](#discovery)
 
 * [*Multimedia*](#multimedia)
 > [*musicplay*](#music-players)
@@ -19,6 +19,9 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 > [*fileman*](#file-managers), [*trans*](#transport)
 
 ## Internet
+
+### Chat
+* [**Discord**](https://play.google.com/store/apps/details?id=com.discord)
 
 ### Discovery
 * [**StumbleUpon**](http://www.stumbleupon.com/) / [*play*](https://play.google.com/store/apps/details?id=com.stumbleupon.android.app&hl=en), [*itunes*](https://itunes.apple.com/us/app/stumbleupon/id386244833?mt=8)
