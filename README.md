@@ -21,7 +21,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 ## Internet
 
 ### Chat
-* [**Discord**](https://play.google.com/store/apps/details?id=com.discord)
+* [**Discord**](https://discordapp.com/) / [*play*](https://play.google.com/store/apps/details?id=com.discord)
 
 ### Discovery
 * [**StumbleUpon**](http://www.stumbleupon.com/) / [*play*](https://play.google.com/store/apps/details?id=com.stumbleupon.android.app&hl=en), [*itunes*](https://itunes.apple.com/us/app/stumbleupon/id386244833?mt=8)
