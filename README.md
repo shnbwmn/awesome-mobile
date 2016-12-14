@@ -10,7 +10,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**1by1**](http://mpesch3.de1.cc/1by1.html) / [*apk*](http://mpesch3.de1.cc/1by1.html#and), [*fosshub*](https://www.fosshub.com/1by1.html) / `music player` /  very small
 * [**Caesium**](https://saerasoft.com/caesium/) / [*app*](https://saerasoft.com/caesium/app/) / `image compression` / beta
 * [**Discord**](https://discordapp.com/) / [*play*](https://play.google.com/store/apps/details?id=com.discord) / `chat`
-* [**GnuCash**](https://www.gnucash.org/) / [*play*](https://play.google.com/store/apps/details?id=org.gnucash.android) / `finance`
+* [**GnuCash**](https://www.gnucash.org/) / [*play*](https://play.google.com/store/apps/details?id=org.gnucash.android) / `finance` / expense-tracking companion to the desktop program
 * [**StumbleUpon**](http://www.stumbleupon.com/) / [*play*](https://play.google.com/store/apps/details?id=com.stumbleupon.android.app&hl=en), [*itunes*](https://itunes.apple.com/us/app/stumbleupon/id386244833?mt=8) / `discovery`
 * [**Total Commander**](https://www.ghisler.com/) / [*totalcmd*](http://www.ghisler.com/android.htm), [*play*](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander&hl=en) / `file management` / free!
 * [**Uber**](https://www.uber.com/) / [*play*](https://play.google.com/store/apps/details?id=com.ubercab&hl=en), [*itunes*](https://itunes.apple.com/us/app/uber/id368677368) / `transport` / a real life-saver at times
