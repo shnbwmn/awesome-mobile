@@ -15,6 +15,10 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Total Commander**](https://www.ghisler.com/) / [*totalcmd*](http://www.ghisler.com/android.htm), [*play*](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander&hl=en) / `file management` / free!
 * [**Uber**](https://www.uber.com/) / [*play*](https://play.google.com/store/apps/details?id=com.ubercab&hl=en), [*itunes*](https://itunes.apple.com/us/app/uber/id368677368) / `transport` / a real life-saver at times
 
+## ROMs
+* [**CyanogenMod**](https://www.cyanogenmod.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=1&t=23232)
+* [**Nameless Rom**]() / [*sf*](https://sourceforge.net/projects/namelessrom/)
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
