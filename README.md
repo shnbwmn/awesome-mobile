@@ -17,7 +17,7 @@ _See also:_ [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable),
 * [**Uber**](https://www.uber.com/) / [*play*](https://play.google.com/store/apps/details?id=com.ubercab&hl=en), [*itunes*](https://itunes.apple.com/us/app/uber/id368677368) / `transport` / a real life-saver at times
 
 ## ROMs
-* [**CyanogenMod**](https://www.cyanogenmod.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=1&t=23232)
+* [**CyanogenMod**](https://www.cyanogenmod.org/) | [**Lineage OS**](http://lineageos.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=1&t=23232), [*lh*](http://lifehacker.com/cyanogenmod-is-dead-and-its-successor-is-lineage-os-1790554964)
 * [**Nameless Rom**]() / [*sf*](https://sourceforge.net/projects/namelessrom/)
 
 ## License
